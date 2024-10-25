@@ -1,0 +1,664 @@
+{
+  "data": [
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "genre": "Pop",
+      "duration": 200
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "genre": "Pop",
+      "duration": 203
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "genre": "Pop Rock",
+      "duration": 174
+    },
+    {
+      "title": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "genre": "Pop Punk",
+      "duration": 178
+    },
+    {
+      "title": "Peaches",
+      "artist": "Justin Bieber",
+      "genre": "R&B",
+      "duration": 198
+    },
+    {
+      "title": "drivers license",
+      "artist": "Olivia Rodrigo",
+      "genre": "Pop",
+      "duration": 242
+    },
+    {
+      "title": "Montero (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "genre": "Hip-Hop",
+      "duration": 137
+    },
+    {
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "genre": "Synth-pop",
+      "duration": 215
+    },
+    {
+      "title": "Industry Baby",
+      "artist": "Lil Nas X",
+      "genre": "Hip-Hop",
+      "duration": 212
+    },
+    {
+      "title": "Stay",
+      "artist": "The Kid LAROI, Justin Bieber",
+      "genre": "Pop",
+      "duration": 141
+    },
+    {
+      "title": "Stay",
+      "artist": "Culture Club",
+      "genre": "Techno",
+      "duration": 193
+    },
+    {
+      "title": "Closer",
+      "artist": "Post Malone",
+      "genre": "Jazz",
+      "duration": 247
+    },
+    {
+      "title": "Roxanne",
+      "artist": "Ed Sheeran",
+      "genre": "Soul",
+      "duration": 297
+    },
+    {
+      "title": "Nothing Else Matters",
+      "artist": "Bob Marley",
+      "genre": "Metal",
+      "duration": 293
+    },
+    {
+      "title": "Drivers License",
+      "artist": "Taylor Swift",
+      "genre": "Indie",
+      "duration": 129
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "Elton John",
+      "genre": "Electronic",
+      "duration": 130
+    },
+    {
+      "title": "Baba O'Riley",
+      "artist": "Beyonc\u00e9",
+      "genre": "Techno",
+      "duration": 203
+    },
+    {
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "genre": "Reggae",
+      "duration": 266
+    },
+    {
+      "title": "Sweet Child O' Mine",
+      "artist": "Bob Marley",
+      "genre": "Reggae",
+      "duration": 185
+    },
+    {
+      "title": "Shake It Off",
+      "artist": "Dua Lipa",
+      "genre": "Jazz",
+      "duration": 134
+    },
+    {
+      "title": "I Want to Break Free",
+      "artist": "Ed Sheeran",
+      "genre": "Techno",
+      "duration": 178
+    },
+    {
+      "title": "Stay",
+      "artist": "Post Malone",
+      "genre": "Rock",
+      "duration": 232
+    },
+    {
+      "title": "Dream On",
+      "artist": "Luis Fonsi",
+      "genre": "Punk",
+      "duration": 212
+    },
+    {
+      "title": "Here Comes the Sun",
+      "artist": "Aerosmith",
+      "genre": "Folk",
+      "duration": 192
+    },
+    {
+      "title": "Lose Yourself",
+      "artist": "Creedence Clearwater Revival",
+      "genre": "Disco",
+      "duration": 124
+    },
+    {
+      "title": "Under Pressure",
+      "artist": "AC/DC",
+      "genre": "Disco",
+      "duration": 230
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "The Beatles",
+      "genre": "Hip-Hop",
+      "duration": 242
+    },
+    {
+      "title": "Lose Yourself",
+      "artist": "Lil Nas X",
+      "genre": "House",
+      "duration": 195
+    },
+    {
+      "title": "Good 4 U",
+      "artist": "Ed Sheeran",
+      "genre": "Folk",
+      "duration": 284
+    },
+    {
+      "title": "Butter",
+      "artist": "Creedence Clearwater Revival",
+      "genre": "Folk",
+      "duration": 224
+    },
+    {
+      "title": "Don't Stop Believin'",
+      "artist": "Shawn Mendes",
+      "genre": "Hip-Hop",
+      "duration": 158
+    },
+    {
+      "title": "Livin' on a Prayer",
+      "artist": "Sam Smith",
+      "genre": "Gospel",
+      "duration": 153
+    },
+    {
+      "title": "Stairway to Heaven",
+      "artist": "Creedence Clearwater Revival",
+      "genre": "R&B",
+      "duration": 211
+    },
+    {
+      "title": "Lose Yourself",
+      "artist": "Justin Bieber",
+      "genre": "Electronic",
+      "duration": 237
+    },
+    {
+      "title": "Born to Be Wild",
+      "artist": "Lil Nas X",
+      "genre": "Indie",
+      "duration": 268
+    },
+    {
+      "title": "Blackbird",
+      "artist": "Elton John",
+      "genre": "Soul",
+      "duration": 201
+    },
+    {
+      "title": "Despacito",
+      "artist": "Billy Joel",
+      "genre": "Hip-Hop",
+      "duration": 161
+    },
+    {
+      "title": "Bad Guy",
+      "artist": "Adele",
+      "genre": "Reggaeton",
+      "duration": 226
+    },
+    {
+      "title": "Hotel California",
+      "artist": "Cyndi Lauper",
+      "genre": "Blues",
+      "duration": 222
+    },
+    {
+      "title": "Mr. Brightside",
+      "artist": "Bad Bunny",
+      "genre": "Rock",
+      "duration": 126
+    },
+    {
+      "title": "Sweet Child O' Mine",
+      "artist": "Lil Nas X",
+      "genre": "Blues",
+      "duration": 245
+    },
+    {
+      "title": "Dancing Queen",
+      "artist": "Queen",
+      "genre": "Reggaeton",
+      "duration": 211
+    },
+    {
+      "title": "Hello",
+      "artist": "Lil Nas X",
+      "genre": "Alternative",
+      "duration": 221
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Billie Eilish",
+      "genre": "Soul",
+      "duration": 151
+    },
+    {
+      "title": "Kiss Me More",
+      "artist": "Olivia Rodrigo",
+      "genre": "Folk",
+      "duration": 262
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Johnny Cash",
+      "genre": "Metal",
+      "duration": 259
+    },
+    {
+      "title": "Ring of Fire",
+      "artist": "Rihanna",
+      "genre": "Folk",
+      "duration": 146
+    },
+    {
+      "title": "My Universe",
+      "artist": "SZA",
+      "genre": "Reggaeton",
+      "duration": 241
+    },
+    {
+      "title": "Good 4 U",
+      "artist": "Adele",
+      "genre": "Techno",
+      "duration": 261
+    },
+    {
+      "title": "Stairway to Heaven",
+      "artist": "James Brown",
+      "genre": "R&B",
+      "duration": 253
+    },
+    {
+      "title": "The Box",
+      "artist": "Guns N' Roses",
+      "genre": "Disco",
+      "duration": 199
+    },
+    {
+      "title": "Take On Me",
+      "artist": "Elton John",
+      "genre": "Pop",
+      "duration": 190
+    },
+    {
+      "title": "Roxanne",
+      "artist": "Adele",
+      "genre": "Soul",
+      "duration": 224
+    },
+    {
+      "title": "Sweet Child O' Mine",
+      "artist": "Michael Jackson",
+      "genre": "Gospel",
+      "duration": 121
+    },
+    {
+      "title": "Rolling in the Deep",
+      "artist": "Sam Smith",
+      "genre": "Pop",
+      "duration": 238
+    },
+    {
+      "title": "Piano Man",
+      "artist": "Johnny Cash",
+      "genre": "Indie",
+      "duration": 178
+    },
+    {
+      "title": "Old Town Road",
+      "artist": "Mark Ronson",
+      "genre": "Reggaeton",
+      "duration": 291
+    },
+    {
+      "title": "Mood",
+      "artist": "Aerosmith",
+      "genre": "Blues",
+      "duration": 272
+    },
+    {
+      "title": "Hey Ya!",
+      "artist": "The Chainsmokers",
+      "genre": "Classical",
+      "duration": 126
+    },
+    {
+      "title": "Thinking Out Loud",
+      "artist": "Ben E. King",
+      "genre": "Electronic",
+      "duration": 133
+    },
+    {
+      "title": "Take On Me",
+      "artist": "The Who",
+      "genre": "Soul",
+      "duration": 175
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "Lil Wayne",
+      "genre": "Rock",
+      "duration": 125
+    },
+    {
+      "title": "Despacito",
+      "artist": "Billy Joel",
+      "genre": "R&B",
+      "duration": 289
+    },
+    {
+      "title": "Zombie",
+      "artist": "Roddy Ricch",
+      "genre": "Disco",
+      "duration": 152
+    },
+    {
+      "title": "Perfect",
+      "artist": "Cyndi Lauper",
+      "genre": "Jazz",
+      "duration": 176
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "Rihanna",
+      "genre": "Jazz",
+      "duration": 280
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Adele",
+      "genre": "Hip-Hop",
+      "duration": 268
+    },
+    {
+      "title": "Hello",
+      "artist": "The Beach Boys",
+      "genre": "Blues",
+      "duration": 248
+    },
+    {
+      "title": "The Box",
+      "artist": "Whitney Houston",
+      "genre": "Punk",
+      "duration": 243
+    },
+    {
+      "title": "Stay",
+      "artist": "Khalid",
+      "genre": "Alternative",
+      "duration": 264
+    },
+    {
+      "title": "Old Town Road",
+      "artist": "Adele",
+      "genre": "Indie",
+      "duration": 190
+    },
+    {
+      "title": "Take My Breath",
+      "artist": "Ed Sheeran",
+      "genre": "Classical",
+      "duration": 218
+    },
+    {
+      "title": "Mood",
+      "artist": "The Beatles",
+      "genre": "Soul",
+      "duration": 279
+    },
+    {
+      "title": "Good 4 U",
+      "artist": "The Cure",
+      "genre": "Techno",
+      "duration": 252
+    },
+    {
+      "title": "Thinking Out Loud",
+      "artist": "Eagles",
+      "genre": "Punk",
+      "duration": 282
+    },
+    {
+      "title": "Blackbird",
+      "artist": "SZA",
+      "genre": "Pop",
+      "duration": 294
+    },
+    {
+      "title": "All of Me",
+      "artist": "Lil Nas X",
+      "genre": "Reggaeton",
+      "duration": 296
+    },
+    {
+      "title": "Baba O'Riley",
+      "artist": "James Brown",
+      "genre": "Indie",
+      "duration": 165
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Glass Animals",
+      "genre": "Reggae",
+      "duration": 284
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "Frank Sinatra",
+      "genre": "Blues",
+      "duration": 225
+    },
+    {
+      "title": "Industry Baby",
+      "artist": "Adele",
+      "genre": "House",
+      "duration": 220
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "The Chainsmokers",
+      "genre": "House",
+      "duration": 274
+    },
+    {
+      "title": "All Along the Watchtower",
+      "artist": "The Kid LAROI",
+      "genre": "R&B",
+      "duration": 122
+    },
+    {
+      "title": "Dancing Queen",
+      "artist": "SZA",
+      "genre": "Country",
+      "duration": 131
+    },
+    {
+      "title": "Take My Breath",
+      "artist": "Adele",
+      "genre": "Jazz",
+      "duration": 236
+    },
+    {
+      "title": "Wonderwall",
+      "artist": "Post Malone",
+      "genre": "Metal",
+      "duration": 160
+    },
+    {
+      "title": "Nothing Else Matters",
+      "artist": "Guns N' Roses",
+      "genre": "Punk",
+      "duration": 158
+    },
+    {
+      "title": "Circles",
+      "artist": "Megan Thee Stallion",
+      "genre": "Hip-Hop",
+      "duration": 178
+    },
+    {
+      "title": "Hotel California",
+      "artist": "Doja Cat",
+      "genre": "House",
+      "duration": 167
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "Elton John",
+      "genre": "Punk",
+      "duration": 281
+    },
+    {
+      "title": "Shivers",
+      "artist": "Bob Dylan",
+      "genre": "Electronic",
+      "duration": 179
+    },
+    {
+      "title": "Lose Yourself",
+      "artist": "Silk Sonic",
+      "genre": "Alternative",
+      "duration": 216
+    },
+    {
+      "title": "Like a Rolling Stone",
+      "artist": "The Doors",
+      "genre": "Reggaeton",
+      "duration": 286
+    },
+    {
+      "title": "Butter",
+      "artist": "Elton John",
+      "genre": "Classical",
+      "duration": 268
+    },
+    {
+      "title": "Lose Yourself",
+      "artist": "Rihanna",
+      "genre": "Indie",
+      "duration": 127
+    },
+    {
+      "title": "Bad Liar",
+      "artist": "Olivia Rodrigo",
+      "genre": "Classical",
+      "duration": 243
+    },
+    {
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Khalid",
+      "genre": "Metal",
+      "duration": 176
+    },
+    {
+      "title": "Stay",
+      "artist": "Shawn Mendes",
+      "genre": "Blues",
+      "duration": 130
+    },
+    {
+      "title": "Creep",
+      "artist": "Queen",
+      "genre": "Hip-Hop",
+      "duration": 177
+    },
+    {
+      "title": "Stay",
+      "artist": "Billy Joel",
+      "genre": "Folk",
+      "duration": 216
+    },
+    {
+      "title": "Shake It Off",
+      "artist": "Lil Nas X",
+      "genre": "Reggae",
+      "duration": 275
+    },
+    {
+      "title": "Summer of '69",
+      "artist": "Diana Ross",
+      "genre": "Gospel",
+      "duration": 163
+    },
+    {
+      "title": "Billie Jean",
+      "artist": "Harry Styles",
+      "genre": "House",
+      "duration": 188
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "Adele",
+      "genre": "Gospel",
+      "duration": 156
+    },
+    {
+      "title": "Senorita",
+      "artist": "Dua Lipa",
+      "genre": "Classical",
+      "duration": 179
+    },
+    {
+      "title": "Late Night Talking",
+      "artist": "Roddy Ricch",
+      "genre": "Gospel",
+      "duration": 186
+    },
+    {
+      "title": "Another One Bites the Dust",
+      "artist": "Harry Styles",
+      "genre": "Electronic",
+      "duration": 188
+    },
+    {
+      "title": "Rockstar",
+      "artist": "Doja Cat",
+      "genre": "Indie",
+      "duration": 230
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "The Beatles",
+      "genre": "Rock",
+      "duration": 163
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Lil Wayne",
+      "genre": "Reggae",
+      "duration": 273
+    }
+  ]
+}
